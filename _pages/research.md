@@ -35,7 +35,11 @@ the best fitting model that could capture the mice behavior performing the dynam
 #### Advisor: [Choong-Wan Woo](https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en)
 - Facilitated 3T fMRI scanning and Biopac data collection. Analyzed 11 different surveys on mind-wandering and depression symptoms of 98 participants and examined bodymap graphs, which participants colored red if felt activated, blue if felt depressed, using MATLAB.
 - Researched preprocessing methods for brain, respiration, electrocardiography (ECG) data, and helped preprocessing them using TAPAS code.
-Duke University, Department of Medicine, Research Assistant January – June 2017 Advisor: Murali Doraiswamy North Carolina, United States
+<br/>
+
+### Research Assistant at Duke University, Department of Medicine
+#### January – June 2017 
+#### Advisor: [Murali Doraiswamy](https://scholars.duke.edu/person/dorai001) 
 - Discovered cortisol as the most significant predictor of change in ADAS-Cog 11 followed by pro-insulin. Extracted data
 from Alzheimer’s Neuroimaging Initiative (ADNI-1) database on patients who changed from LMCI to Alzheimer’s Disease
 (AD) along with their proteomics data over the course of their illness.
