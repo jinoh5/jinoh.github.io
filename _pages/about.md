@@ -16,4 +16,4 @@ In more detail, I am interested in computational cognitive neuroscience. I am ex
 
 ## Recent Updates
 
-[July 2022] I am using *LFADS* to explore the single trial dynamics of the spatial memory task during memory delay. Here is the open-source link to *auto-LFADS* [link](https://github.com/snel-repo/autolfads-tf2)
+[July 2022] I am using *LFADS* to explore the single trial dynamics of the spatial memory task during memory delay. Here is the open-source link to *auto-LFADS* [(link)](https://github.com/snel-repo/autolfads-tf2)
