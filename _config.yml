@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao, Ph.D."
+title                    : "Jin Oh"
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao, Ph.D."
-description              : &description "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her."
-url                      : https://rasikabh.github.io
+name                     : &name "Jin Oh"
+description              : &description "I am a post-masters researcher at Stanford University. She/her."
+url                      : https://jinoh5.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rasikabh/rasikabh.github.io"
+repository               : "jinoh5/jinoh5.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rasika Bhalerao, Ph.D."
-  avatar           : "Bhalerao2021.jpeg"
-  bio              : "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her"
-  location         : "rasikabh @ gmail.com"
-  employer         : "New York University"
+  name             : "Jin Oh"
+  avatar           : "jin_profile.jpeg"
+  bio              : "I am a post-masters researcher at Stanford University. She/her"
+  location         : "yujinoh@stanford.edu"
+  employer         : "Stanford University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
-  researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
+#   googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
+#   researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rasikabh"
+  github           : "jinoh5"
   google_plus      :
-  keybase          : "rasikabh"
+#   keybase          : "rasikabh"
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rasika-bhalerao-8a827188/"
+  linkedin         : "jin-yu-jin-oh-a81b84a3/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "rasikabh"
+#   twitter          : "rasikabh"
   vine             :
   weibo            :
   xing             :
