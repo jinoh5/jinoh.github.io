@@ -1,10 +1,12 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research"
+    url: /research/    
+    
+  - title: "Publications"
+    url: /publications/ 
     
   - title: "CV"
     url: /files/Jin Oh CV 2022.pdf
     
-  - title: "Publications"
-    url: /publications/ 
+
