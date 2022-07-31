@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter rasikabh
+#   username               : &twitter rasikabh
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jin Oh"
-  avatar           : "images/jin_profile.jpg"
+  avatar           : "/images/jin_profile.jpg"
   bio              : "I am a post-masters researcher at Stanford University. She/her"
   location         : "yujinoh@stanford.edu"
   employer         : "Stanford University"
