@@ -13,8 +13,6 @@ Hi! I am a post-master's researcher working at the [Moore Lab](https://www.moore
 My main research interests are Decision-making, Cognitive modeling, Neuropixel recording, Reinforcement learning.
 My research interest lies in the area of computational cognitive neuroscience. I am excited about understanding the neural mechanism and cognitive strategy behind humans or animals solving different cognitive tasks. In alignment with this interest, I want to investigate how natural intelligence can apply their prior knowledge to solve new challenges.
 
-# <img src="/images/Bhalerao2021.jpeg" width="200">
-
 ## News
 
 - I am researching
