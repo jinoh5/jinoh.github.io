@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rasika Bhalerao, Ph.D."
+title: "Jin Oh"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,13 @@ redirect_from:
   - about.html
 ---
 
-Hi! I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences in the San Francisco Bay Area campuses! I received my PhD in computer science from NYU Tandon in 2022 under my advisor [Damon McCoy](http://damonmccoy.com). 
-My pronouns are she/her.
+Hi! I am a post-master's researcher working at the [Moore Lab](https://www.moorelabstanford.com) under the guidance of [Tirin Moore](https://profiles.stanford.edu/tirin-moore). I received my Master's degree in Neuroscience at University College London under the supervision of [Kenneth Harris](https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en) and [Matteo Carandini](https://scholar.google.com/citations?user=R3PGFHsAAAAJ&hl=en) and my Bachelor's degree at Duke University.
 
-
-My main research interests are cybersecurity, ethics, social bias in machine learning, and teaching ethical computing. 
-I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
-Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment! 
-
-I am learning Spanish and Mandarin, and I would love to practice with you!
+My main research interests are Decision-making, Cognitive modeling, Neuropixel recording, Reinforcement learning.
+My research interest lies in the area of computational cognitive neuroscience. I am excited about understanding the neural mechanism and cognitive strategy behind humans or animals solving different cognitive tasks. In alignment with this interest, I want to investigate how natural intelligence can apply their prior knowledge to solve new challenges.
 
 <img src="/images/Bhalerao2021.jpeg" width="200">
 
 ## News
 
-- The [July Climate Change AI newsletter](http://eepurl.com/h6MdI5) is out!
-- Our paper "[Ethical Practices for Security Research with At-Risk Populations](https://elissaredmiles.com/research/ethics_2022.pdf)" won the best paper award at the EthiCS 2022 workshop!
-- Our paper "[Ethics and Efficacy of Unsolicited Anti-Trafficking SMS Outreach](https://arxiv.org/abs/2202.09527)" was accepted to CSCW 2022!
+- I am researching
