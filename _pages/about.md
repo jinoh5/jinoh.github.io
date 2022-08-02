@@ -8,11 +8,12 @@ redirect_from:
   - about.html
 ---
 
-Hi! I am a post-master's researcher working at the [Moore Lab](https://www.moorelabstanford.com) under the guidance of [Tirin Moore](https://profiles.stanford.edu/tirin-moore). I received my Master's degree in Neuroscience at University College London under the supervision of [Kenneth Harris](https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en) and [Matteo Carandini](https://scholar.google.com/citations?user=R3PGFHsAAAAJ&hl=en) and my Bachelor's degree at Duke University.
+Hi! I am a post-master's researcher working at the [Moore Lab](https://www.moorelabstanford.com) under the guidance of [Tirin Moore](https://profiles.stanford.edu/tirin-moore). I received my Master's degree in Neuroscience at University College London under the supervision of [Kenneth Harris](https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en) and [Matteo Carandini](https://scholar.google.com/citations?user=R3PGFHsAAAAJ&hl=en) and my Bachelor's degree at [Duke University](https://psychandneuro.duke.edu/undergraduate/neuroscience).
 
-My main research interests are Decision-making, Cognitive modeling, Neuropixel recording, Reinforcement learning.
+These are my research keywords: cognition, learning, working memory, decision-making, cognitive modeling, Neuropixels recording, reinforcement learning. 
 
-In more detail, I am interested in computational cognitive neuroscience. I am excited about understanding the neural mechanism and cognitive strategy behind humans or animals solving different cognitive tasks. In alignment with this interest, I want to investigate how natural intelligence can apply their prior knowledge to solve new challenges.
+I am excited about understanding cognition through the lens of computational cognitive systems neuroscience. 
+In detail, I am interested in understanding the neural mechanism and cognitive strategy behind humans or animals solving different cognitive tasks. In alignment with this interest, I want to investigate how natural intelligence can apply their prior knowledge to solve new challenges.
 
 ## Recent Updates
 
