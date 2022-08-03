@@ -13,7 +13,8 @@ Hi! I am a post-master's researcher working at the [Moore Lab](https://www.moore
 These are my research keywords: cognition, learning, working memory, decision-making, cognitive modeling, Neuropixels recording, reinforcement learning. 
 
 I am excited about understanding cognition through the lens of computational cognitive systems neuroscience. 
-In detail, I am interested in understanding the neural mechanism and cognitive strategy behind humans or animals solving different cognitive tasks. In alignment with this interest, I want to investigate how natural intelligence can apply their prior knowledge to solve new challenges.
+More specifically, I am interested in understanding the neural mechanism and cognitive strategy behind how humans or animals solving multiple cognitive tasks using prior knowledge, which could be shared action policy across tasks. 
+In alignment with this interest, I want to investigate how natural intelligence can apply their prior knowledge to solve new challenges.
 
 ## Recent Updates
 
