@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ## Education 
-  - B.S. in Neuroscience & B.A. in International Comparative Studies *Cum Laude* , Duke University, 2018
+  - B.S. in Neuroscience & B.A. in International Comparative Studies *Cum Laude*, Duke University, 2018
   - MSc in Neuroscience *First Honor Class*, University College London, 2021
 
 ## Technical Skills 
