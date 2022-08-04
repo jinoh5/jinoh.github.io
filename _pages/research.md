@@ -40,11 +40,11 @@ scores and discover that the cortisol is the most significant predictor of chang
 ### Systems Neuroscience 
 
 ### Training feature-based learning task (2022) 
-   - Work with Dr. Tirin Moore 
+   - Work with [Dr. Tirin Moore](https://profiles.stanford.edu/tirin-moore)
    - Use Thomas In Cage Training System (ICTS) to train nonhuman primates to perform feature-based learning task.
 
 ### Chronic Neuropixels recording on mouse (2021) 
-   - Work with Anna Lebedeva 
+   - Work with [Anna Lebedeva](https://www.sainsburywellcome.org/web/people/anna-lebedeva)
 
 ### Training structured credit assignment task (2021) 
-   - Work with Dr. Kevin J Miler 
+   - Work with [Dr. Kevin J Miller](https://scholar.google.com/citations?user=qSZJKJIAAAAJ&hl=en)
