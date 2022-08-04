@@ -12,13 +12,23 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-## Instructor: Rasika Bhalerao
-### rasikabh@nyu.edu
-### Computer Science, New York University Tandon School of Engineering
-### Fall 2020
-### [Syllabus](https://docs.google.com/document/d/1vCZopztgMiaSO1F8jb4k0wPJCQiRqwrQ3wQBqp4mgp4/edit?usp=sharing)
-### Lectures: Mondays 2:00 - 4:30 in JABS 474 and online
-### Office hours: Thursdays 1 - 2pm and by appointment
-### TA: Zhihao Zhang, zz2432@nyu.edu, Office hours Fridays 2-4pm
-<br/>
+## Education 
+  - B.S. in Neuroscience & B.A. in International Comparative Studies *Cum Laude* , Duke University, 2018
+  - MSc in Neuroscience *First Honor Class*, University College London, 2021
+
+## Technical Skills 
+  - Language: Python, Matlab, Unix
+  - Software: Kilosort, Phy, LFADS, Cell Explorer
+
+## Work Experience  
+  Google Korea (January - May 2019) 
+  - Spearheaded qualitative market research project and meetings with market research companies to create effective strategies to optimize YouTube’s advertisement techniques for cosmetics, OTT, and automobile industries
+
+## Distinction 
+  - Kwanjeong Educational Foundation Scholarship (2020)
+  - Psychology & Neuroscience Undergraduate Travel Award (2018)
+  - Undergraduate Research Support Travel Grant recipient (2017)
+  - The 11th Ok Han-heum Scholarship recipient (2016)
+  - McAnderson Language & Duke Study in China Scholarship (2015)
+  - Dean’s List (2014 Fall, 2016 Fall, 2017 Fall)
 
