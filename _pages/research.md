@@ -13,6 +13,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
+I have divided my research experience into computational and experimental work. 
+
 # Computational Cognitive Neuroscience
 
 
