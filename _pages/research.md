@@ -13,42 +13,38 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Life Science Research Professional I at Stanford University, [Moore Lab](https://www.moorelabstanford.com)
-#### January 2022 - Present
-#### Advisor: [Dr. Tirin Moore](https://profiles.stanford.edu/tirin-moore)
-- Designed a multi-class classification pipeline for the Neuropixels recording data of the spatial memory task.
-- Utilized Thomas In Cage Training System (ICTS) to train nonhuman primates to perform feature-based learning task.
-- Analyzed Neuropixels data using Kilosort an Phy software.
-<br/>
+### Computational Cognitive Neuroscience
 
-### Master’s Student at University College London, [Cortex Lab](https://www.ucl.ac.uk/cortexlab/)
-#### January– November 2021 
-#### Advisor: [Dr. Kevin J Miller](https://scholar.google.com/citations?user=qSZJKJIAAAAJ&hl=en), [Dr. Kenneth Harris](https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en)
-- Conducted chronic Neuropixels recording on mice which are trained to do a dynamic two-armed bandit task.
-- Utilized qualitative diagnostics and normalized cross-validated log likelihood scores (in Python) to evaluate 9 cognitive
-models, including Q-learning variants, matching law variant, ideal observer variants, and mixture-of-agents model, to find
-the best fitting model that could capture the mice behavior performing the dynamic two-armed bandit task.
-<br/>
+### Decoding spatial memory during delay (2022) [Github](https://github.com/jinoh5/decoding-working-memory) 
+   - Work with [Dr. Matt Panichello](https://scholar.princeton.edu/mfp2/home), [Dr. Tirin Moore](https://profiles.stanford.edu/tirin-moore)
+   - To research the amount of memorandum-selective information maintained in the spiking of the prefrontal neurons, I trained the multinomial logistic regression classifier to predict the cued stimulus location using NHP Neuropixels data. The result showed that during memory delay, classifier's confidence on single trial was fluctuate between high and low confidence states.
+    
+### Cognitive modeling (2021) [Github](https://github.com/jinoh5/cognitive_modeling)
+   - Work with [Dr. Kevin J Miller](https://scholar.google.com/citations?user=qSZJKJIAAAAJ&hl=en), [Dr. Kenneth Harris](https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en)
+   - To explore the hypotheses of the neural algorithms implemented by the brain to give rise to behavior, I modeled the choice datasets of head-fixed mice performing a dynamic two-armed bandit task. The key to finding a good fitting model was whether the model was able to capture the mice's choice perseverating behavioral pattern. 
+    
+### Human behavior analysis (2018) 
+   - Work with [Dr. Choong-Wan Woo](https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en)
+   - I analyzed 11 different surveys on mind-wandering and depression symptoms of 98 participants and examined bodymap graphs using Matlab. 
 
-### Research Assistant at Sungkyunkwan University, [Computational Cognitive Affective Neuroscience Lab](https://cocoanlab.github.io)
-#### March – August 2018 
-#### Advisor: [Choong-Wan Woo](https://scholar.google.com/citations?user=fZLY5H8AAAAJ&hl=en)
-- Facilitated 3T fMRI scanning and Biopac data collection. Analyzed 11 different surveys on mind-wandering and depression symptoms of 98 participants and examined bodymap graphs, which participants colored red if felt activated, blue if felt depressed, using MATLAB.
-- Researched preprocessing methods for brain, respiration, electrocardiography (ECG) data, and helped preprocessing them using TAPAS code.
-<br/>
+### Proteomics data analysis (2017) 
+   - Work with [Dr. Murali Doraiswamy](https://scholars.duke.edu/person/dorai001)  
+   - By extracting the proteomics data of the patients in Alzheimer’s Neuroimaging Initiative (ADNI-1) database, I was able to apply regression models to examine the relationship between log-transformed proteomic markers and ADAS-Cog 11
+scores and discover that the cortisol is the most significant predictor of change in ADAS-Cog 11 followed by pro-insulin.
 
-### Research Assistant at Duke University, Department of Medicine
-#### January – June 2017 
-#### Advisor: [Murali Doraiswamy](https://scholars.duke.edu/person/dorai001) 
-- Discovered cortisol as the most significant predictor of change in ADAS-Cog 11 followed by pro-insulin. Extracted data
-from Alzheimer’s Neuroimaging Initiative (ADNI-1) database on patients who changed from LMCI to Alzheimer’s Disease
-(AD) along with their proteomics data over the course of their illness.
-- Applied regression models to examine the relationship between log-transformed proteomic markers and ADAS-Cog 11
-scores which show the patients’ current cognition scores.
-<br/>
+### Human behaivor analysis (2017) 
+   - Work at [Center for Advanced Hindsight](https://advanced-hindsight.com)
+   - I derived behavioral patterns of fin-tech users through data analytics to transform low-income individual’s saving method, with Common Cents Lab within CAH.
 
-### Research Assistant at Duke University, [Center for Advanced Hindsight](https://advanced-hindsight.com)
-#### August 2016 – January 2017 
-#### Advisor: Dan Ariely
-- Derived behavioral patterns of fin-tech users through data analytics to transform low-income individual’s saving method, with Common Cents Lab within CAH. Surveyed low-income families in Durham and observed their spending/saving habits.
-<br/>
+
+### Systems Neuroscience 
+
+### Training feature-based learning task (2022) 
+   - Work with Dr. Tirin Moore 
+   - Use Thomas In Cage Training System (ICTS) to train nonhuman primates to perform feature-based learning task.
+
+### Chronic Neuropixels recording on mouse (2021) 
+   - Work with Anna Lebedeva 
+
+### Training structured credit assignment task (2021) 
+   - Work with Dr. Kevin J Miler 
