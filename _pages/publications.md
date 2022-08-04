@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications/CV"
-permalink: publications_cv/
+title: "Publications"
+permalink: publications/
 author_profile: true
 ---
 
@@ -10,12 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-**Contact ME for CV**
 
-**Technical Skills**
-  - Language: Python, Matlab, Unix
-  - Software: Kilosort, Phy, LFADS, Cell Explorer
- 
 **Journal Publications**
 
 *In preparation*
