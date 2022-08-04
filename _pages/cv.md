@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: cv/
-author_profile: false
+permalink: /cv/
+author_profile: true
 
 ---
 <style type='text/css'>
