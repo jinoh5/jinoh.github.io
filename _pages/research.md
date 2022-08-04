@@ -15,6 +15,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Computational Cognitive Neuroscience
 
+
 ### Decoding spatial memory during delay (2022) [Github](https://github.com/jinoh5/decoding-working-memory) 
    - Work with [Dr. Matt Panichello](https://scholar.princeton.edu/mfp2/home), [Dr. Tirin Moore](https://profiles.stanford.edu/tirin-moore)
    - To research the amount of memorandum-selective information maintained in the spiking of the prefrontal neurons, I trained the multinomial logistic regression classifier to predict the cued stimulus location using NHP Neuropixels data. The result showed that during memory delay, classifier's confidence on single trial was fluctuate between high and low confidence states.
@@ -36,9 +37,9 @@ scores and discover that the cortisol is the most significant predictor of chang
    - Work at [Center for Advanced Hindsight](https://advanced-hindsight.com)
    - I derived behavioral patterns of fin-tech users through data analytics to transform low-income individual’s saving method, with Common Cents Lab within CAH.
 
+### Systems Neuroscience
 
-### Systems Neuroscience 
-
+   
 ### Training feature-based learning task (2022) 
    - Work with [Dr. Tirin Moore](https://profiles.stanford.edu/tirin-moore)
    - Use Thomas In Cage Training System (ICTS) to train nonhuman primates to perform feature-based learning task.
