@@ -17,7 +17,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
   - MSc in Neuroscience *First Honor Class*, University College London, 2021
 
 ## Technical Skills 
-  - Language: Python, Matlab, Unix
+  - Language: Python, Matlab, Unix, Pystan
   - Software: Kilosort, Phy, LFADS, Cell Explorer
 
 ## Work Experience  
