@@ -24,7 +24,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
   Google Korea (January - May 2019) 
   - Spearheaded qualitative market research project and meetings with market research companies to create effective strategies to optimize YouTube’s advertisement techniques for cosmetics, OTT, and automobile industries
 
-## Distinction 
+## Distinctions
   - Kwanjeong Educational Foundation Scholarship (2020)
   - Psychology & Neuroscience Undergraduate Travel Award (2018)
   - Undergraduate Research Support Travel Grant recipient (2017)
