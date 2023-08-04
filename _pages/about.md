@@ -13,9 +13,7 @@ Hello! Welcome to my website!
 I am starting my computational neuroscience Ph.D. at the University of Chicago in the fall of 2023.
 
 I was a post-Master's researcher working at the [Moore Lab](https://www.moorelabstanford.com) under the guidance of [Tirin Moore](https://profiles.stanford.edu/tirin-moore) at Stanford University. 
-
 I received my Master's degree in Neuroscience at University College London under the supervision of [Kenneth Harris](https://scholar.google.com/citations?user=jcYBNfIAAAAJ&hl=en) and [Matteo Carandini](https://scholar.google.com/citations?user=R3PGFHsAAAAJ&hl=en).
-
 I received my Bachelor's degree in Neuroscience at [Duke University](https://psychandneuro.duke.edu/undergraduate/neuroscience).
 
 These are my research keywords: cognition, learning, working memory, decision-making, cognitive modeling, Neuropixels recording, reinforcement learning. 
