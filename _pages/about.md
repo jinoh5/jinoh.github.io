@@ -26,4 +26,5 @@ In alignment with this interest, I want to investigate how natural intelligence 
 
 ## Recent Updates
 [September 2023] I am starting my Ph.D. at the [University of Chicago](https://biosciences.uchicago.edu/programs/computational-neuroscience). 
+
 [July 2022] I am using *LFADS* to explore the single trial dynamics of the spatial memory task during memory delay. Here is the open-source link to *auto-LFADS* [(link)](https://github.com/snel-repo/autolfads-tf2)
