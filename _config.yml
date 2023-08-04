@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jin Oh"
 title_separator          : "-"
 name                     : &name "Jin Oh"
-description              : &description "I am a post-masters researcher at Stanford University. She/her."
+description              : &description "I am an incoming Ph.D. student at the University of Chicago. She/her."
 url                      : https://jinoh5.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinoh5/jinoh5.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jin Oh"
   avatar           : "jin_profile.jpg"
-  bio              : "I am a post-Master's researcher at Stanford University. She/her."
-  location         : "yujinoh@stanford.edu"
-  employer         : "Stanford University"
+  bio              : "I am an incoming Ph.D. student at the University of Chicago. She/her."
+  location         : "yujinoh@uchicago.edu"
+  employer         : "University of Chicago"
   pubmed           :
 #   googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
 #   researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
